@@ -3,8 +3,8 @@
 
 
 
-## - 🔭 I’m currently working on making my dream come true !!
-## - 🌱 I’m currently learning flutter
+## - 🔭 I’m currently working on making my dreams come true !!
+## - 🌱 I’m currently learning flutter !
 ## - 👯 I’m looking to collaborate on ...
 ## - 🤔 I’m looking for help with ...
 ## - 💬 Ask me about Full stack dev or Machine Learning 
