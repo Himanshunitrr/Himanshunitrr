@@ -9,10 +9,15 @@
 ## - 🤔 I’m looking for help with ...
 ## - 💬 Ask me about Full stack dev or Machine Learning 
 ## - 📫 How to reach me:
-  * Twitter - [@Himanshu_nitrr](https://twitter.com/Himanshu_nitrr)
-  * [Portfolio Website](http://himanshunitrr.github.io)
-  * Linkedin - [Himanshu Maurya](https://www.linkedin.com/in/himanshu-m-432608b7/)
-  * Instagram - [@himanshu_nitrr](https://www.instagram.com/himanshu_nitrr/)
+  <a href="https://twitter.com/Himanshu_nitrr">
+  <img align="left" alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/himanshu-m-432608b7/">
+  <img align="left" alt="Himanshu's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Himanshunitrr">
+  <img align="left" alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
                     
 ## - 😄 Pronouns: He/His
 
