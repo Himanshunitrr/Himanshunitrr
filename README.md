@@ -9,7 +9,8 @@
 ## - 🤔 I’m looking for help with ...
 ## - 💬 Ask me about Full stack dev or Machine Learning 
 ## - 📫 How to reach me:
-  <a href="https://twitter.com/Himanshu_nitrr">
+
+<a href="https://twitter.com/Himanshu_nitrr">
   <img align="left" alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/himanshu-m-432608b7/">
@@ -19,12 +20,13 @@
   <img align="left" alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br/>                  
+<br/>     
+
 ## - 😄 Pronouns: He/His
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-## - ⚡ Fun fact:
+## - ⚡ Fun fact: I love Biology too
 
 <details>
 <summary>
