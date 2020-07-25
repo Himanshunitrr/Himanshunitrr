@@ -11,13 +11,13 @@
 ## - 📫 How to reach me:
 
 <a href="https://twitter.com/Himanshu_nitrr">
-  <img align="left" alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/himanshu-m-432608b7/">
-  <img align="left" alt="Himanshu's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Himanshu's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Himanshunitrr">
-  <img align="left" alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>     
