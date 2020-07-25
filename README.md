@@ -3,12 +3,12 @@
 
 
 
-## - 🔭 I’m currently working on making my dreams come true !!
-## - 🌱 I’m currently learning flutter !
-## - 👯 I’m looking to collaborate on ...
-## - 🤔 I’m looking for help with ...
-## - 💬 Ask me about Full stack dev or Machine Learning 
-## - 📫 How to reach me:
+### - 🔭 I’m currently working on making my dreams come true !!
+### - 🌱 I’m currently learning flutter !
+### - 👯 I’m looking to collaborate on ...
+### - 🤔 I’m looking for help with ...
+### - 💬 Ask me about Full stack dev or Machine Learning 
+### - 📫 How to reach me:
 
 <a href="https://twitter.com/Himanshu_nitrr">
   <img alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,7 +22,7 @@
 
 <br/>     
 
-## - 😄 Pronouns: He/His
+### - 😄 Pronouns: He/His
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
