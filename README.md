@@ -18,7 +18,8 @@
 <a href="https://github.com/Himanshunitrr">
   <img align="left" alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <br/>                  
+
+<br/>                  
 ## - 😄 Pronouns: He/His
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
