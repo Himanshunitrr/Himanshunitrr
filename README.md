@@ -1,6 +1,17 @@
-# Namaste 🙏
+# Namaste 🙏, I am Himanshu
+## Things which I enjoy
+## Web Development
+#### I love designing and creating websites which convey their messages by being being responsive and aesthetically pleasing.
+
+## Machine Learning
+#### Working with Tensorflow, Keras and OpenCV to use the enormous data generated in the world to feed the Neural Network to find patterns which will make our Lives easier and fun !!
+
+## Bug Bounties
+#### I also like doing penetration tests and bug-bounties. Love metasploit, nmap and burpsuite. Trying Hackthebox, tryhackme and bugcrowd bounties is always a fun.
 
 
+## Open Sources
+#### Its a pleasure for everyone in the developer community to learn and code for the betterment of things which the whole world can use for the betterment of society.
 
 
 #### - 🔭 I’m currently working on making my dreams come true !!
@@ -22,26 +33,13 @@
 
 <br/>     
 
-#### - 😄 Pronouns: He/His
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-## - ⚡ Fun fact: I love Biology too
-
 <details>
 <summary>
   Want to know more about me !!
 </summary>
  
-## Web Development
-#### I love designing and creating websites which convey their messages by being being responsive and aesthetically pleasing.
+#### - 😄 Pronouns: He/His
 
-## Machine Learning
-#### Working with Tensorflow, Keras and OpenCV to use the enormous data generated in the world to feed the Neural Network to find patterns which will make our Lives easier and fun !!
+![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-## Bug Bounties
-#### I also like doing penetration tests and bug-bounties. Love metasploit, nmap and burpsuite. Trying Hackthebox, tryhackme and bugcrowd bounties is always a fun.
-
-
-## Open Sources
-#### Its a pleasure for everyone in the developer community to learn and code for the betterment of things which the whole world can use for the betterment of society.
+### - ⚡ Fun fact: I love Biology too
