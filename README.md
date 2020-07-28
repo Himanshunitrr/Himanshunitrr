@@ -35,7 +35,7 @@
 
 <details>
 <summary>
-  Want to know more about me !!
+  Want to know more !!
 </summary>
  
 #### - 😄 Pronouns: He/His
