@@ -1,5 +1,5 @@
 # Namaste 🙏, I am Himanshu
-### I see coding as way or means to fulfill our wildest dreams.
+### I see coding as a way or means to fulfill our wildest dreams.
 ### Let's help each other in making our wildest dreams into reality
 ### Let's code and revolutionize the world😊.
 
