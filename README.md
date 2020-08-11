@@ -1,8 +1,9 @@
 # Namaste 🙏, I am Himanshu
-## Things which I enjoy
 ### I see coding as way or means to fulfill our wildest dreams.
 ### Let's help each other in making our wildest dreams into reality
 ### Let's code and revolutionize the world😊.
+<br/>
+## Things which I enjoy!!
 ## Web Development
 #### I love designing and creating websites which convey their messages by being being responsive and aesthetically pleasing.
 
