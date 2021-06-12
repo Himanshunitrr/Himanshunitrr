@@ -1,8 +1,5 @@
 # Namaste 🙏, I am Himanshu
 ### I see coding as a way or means to fulfill our wildest dreams.
-<figure>
-<iframe src="https://www.kaggle.com/embed/himanshunitrr/simpleneuralnetworkfromscratch?cellId=1&kernelSessionId=64935351" height="400" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="SimpleNeuralNetworkFromScratch"></iframe>
-</figure>
 
 ## Things which I enjoy!!
 ## Web Development (MERN Stack)
