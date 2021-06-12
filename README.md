@@ -1,5 +1,5 @@
 # Namaste 🙏, I am Himanshu
-### I see coding as a way or means to fulfill our wildest dreams.Let's help each other in making our wildest dreams into reality. Let's code and revolutionize the world😊.
+### I see coding as a way or means to fulfill our wildest dreams.
 
 
 ## Things which I enjoy!!
@@ -18,14 +18,17 @@
 <br/>  
 
 #### - 🔭 I’m currently working on making my dreams come true !!
-#### - 🌱 I’m currently learning flutter !
-#### - 👯 I’m looking to collaborate on ...
-#### - 🤔 I’m looking for help with ...
+#### - 🌱 I’m currently learning CV & NLP !
+#### - 👯 I’m looking to collaborate for kaggle competitions.
+#### - 🤔 I’m looking for help with understanding ML in general, human cognitive abilities.
 #### - 💬 Ask me about Full stack dev or Machine Learning 
 #### - 📫 How to reach me:
 
+<a href="https://kaggle.com/himanshunitrr">
+  <img alt="Himanshu's Kaggle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/>
+</a>
 <a href="https://twitter.com/Himanshu_nitrr">
-  <img alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Himanshu's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/himanshu-m-432608b7/">
   <img alt="Himanshu's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -36,14 +39,8 @@
 
 
 <br/>     
-<br/>     
-<details>
-<summary>
-  Want to know more !!
-</summary>
- 
-#### - 😄 Pronouns: He/His
+<br/> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-#### - ⚡ Fun fact: I love Biology too
+#### - ⚡ Fun fact: I like studying ontology, aesthetics & psychology.
