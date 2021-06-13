@@ -41,5 +41,7 @@
 <br/> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshunitrr&layout=compact)](https://github.com/Himanshunitrr/github-readme-stats)
 
 #### - ⚡ Fun fact: I like studying ontology, aesthetics & psychology.
