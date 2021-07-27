@@ -1,26 +1,6 @@
-# Namaste 🙏, I am Himanshu
-### I see coding as a way or means to fulfill our wildest dreams.
+# Namaste 🙏
+### I am Himanshu Maurya, a prefinal undergrad at National Institute of Technology Raipur pursuing B.Tech in Computer Science & Engineering. I am a full stack (MERN) web dev and I have been learning Machine Learning for 2 years now. I am interested in Computer Vision and Natural Language Processing, particularly perception and interaction with 3D vision and control of that agent using NLP. I also do some CTF's too.
 
-## Things which I enjoy!!
-## Web Development (MERN Stack)
-#### I love designing and creating websites which convey their messages by being being responsive and aesthetically pleasing.
-
-## Machine Learning
-#### Working with Tensorflow, Keras and OpenCV to use the enormous data generated in the world to feed the Neural Network to find patterns which will make our Lives easier and fun !!
-
-## Bug Bounties
-#### I also like doing penetration tests and bug-bounties. Love metasploit, nmap and burpsuite. Trying Hackthebox, tryhackme and bugcrowd bounties is always a fun.
-
-
-## Open Sources
-#### Its a pleasure for everyone in the developer community to learn and code for the betterment of things which the whole world can use for the betterment of society.
-<br/>  
-
-#### - 🔭 I’m currently working on making my dreams come true !!
-#### - 🌱 I’m currently learning CV & NLP !
-#### - 👯 I’m looking to collaborate for kaggle competitions.
-#### - 🤔 I’m looking for help with understanding ML in general, human cognitive abilities.
-#### - 💬 Ask me about Full stack dev or Machine Learning 
 #### - 📫 How to reach me:
 
 <a href="https://kaggle.com/himanshunitrr">
@@ -36,12 +16,5 @@
   <img alt="Himanshu's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
-<br/>     
-<br/> 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Himanshunitrr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshunitrr&layout=compact)](https://github.com/Himanshunitrr/github-readme-stats)
 
 #### - ⚡ Fun fact: I like studying ontology, aesthetics & psychology.
