@@ -1,5 +1,6 @@
 # Namaste 🙏
-### I am Himanshu Maurya, a prefinal undergrad at National Institute of Technology Raipur pursuing B.Tech in Computer Science & Engineering. I am a full stack (MERN) web dev and I have been learning Machine Learning for 2 years now. I am interested in Computer Vision and Natural Language Processing, particularly perception and interaction with 3D vision and control of that agent using NLP. I also do some CTF's too.
+### I am Himanshu, a prefinal undergraduate at the National Institute of Technology Raipur (India), pursuing a B.Tech in Computer Science and Engineering. I am a full stack (MERN) web developer and a Machine Learning Enthusiast. I have been working with various traditional ML models and DL models such as Decision Trees, Random Forest, Gradient Boosted decision trees, ConvNets such as AlexNet, VGG and ResNets for CV and GRU, LSTM (and BidirectionalLSTM), Attention and Transformers for NLP.
+### I have been participating in various Kaggle competitions (and won few) and currently I am a Computer Vision Intern at Nference. I am interested in Machine Learning , particularly perception and interaction with 3D vision. I also do some CTF's too.
 
 #### - 📫 How to reach me:
 
