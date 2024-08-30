@@ -2,7 +2,7 @@
 
 
 # cout << "Hello";
-### I am Himanshu, a Research fellow at Madabhushi's Lab working on digital biomarkers.I either Multiply Matrices or draw :)
+### I am Himanshu, a Research fellow at Madabhushi's Lab working on digital biomarkers. I either Multiply Matrices or draw :)
 
 
 
@@ -22,4 +22,4 @@
 </a>
 
 
-#### - Talk to me about: I like studying ontology, aesthetics & psychology.
+#### - Talk to me about: I like studying ontology, epistemology & psychology.
