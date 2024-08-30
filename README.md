@@ -1,6 +1,10 @@
-# Namaste 🙏
-### I am Himanshu, a prefinal undergraduate at the National Institute of Technology Raipur (India), pursuing a B.Tech in Computer Science and Engineering. I am a full stack (MERN) web developer and a Machine Learning Enthusiast. I have been working with various traditional ML models and DL models such as Decision Trees, Random Forest, Gradient Boosted decision trees, ConvNets such as AlexNet, VGG and ResNets for CV and GRU, LSTM (and BidirectionalLSTM), Attention and Transformers for NLP.
-### I have been participating in various Kaggle competitions (and won few) and currently I am a Computer Vision Intern at Nference. I am interested in Machine Learning , particularly perception and interaction with 3D vision. I also do some CTF's too.
+![Brahma](https://pbs.twimg.com/media/GQPlvWyWQAEhA-B?format=jpg&name=medium)
+
+
+# cout << "Hello";
+### I am Himanshu, a Research fellow at Madabhushi's Lab working on digital biomarkers.I either Multiply Matrices or draw :)
+
+
 
 #### - 📫 How to reach me:
 
@@ -18,4 +22,4 @@
 </a>
 
 
-#### - ⚡ Fun fact: I like studying ontology, aesthetics & psychology.
+#### - Talk to me about: I like studying ontology, aesthetics & psychology.
